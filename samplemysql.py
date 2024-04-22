@@ -2,7 +2,7 @@ from flask import Flask,request, render_template,redirect, url_for, session
 #from flask_mysqldb import MySQL
 from cryptography.fernet import Fernet
 from flask_mysqldb import MySQLdb
-import mysql.connector
+#import mysql.connector
 import re
 import random
 from flask_opensearch import FlaskOpenSearch

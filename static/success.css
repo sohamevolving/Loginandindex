@@ -28,7 +28,7 @@ button {
   }
 
 .confetti{
-    background-image: url("duttabari.jpeg");
+    background-image: url("Dawbari.JPG");
 
 	/* Full height */
 	height: 100%;
@@ -41,7 +41,7 @@ button {
 }
 
 h1{
-    color: black;
+    color: white;
     text-align: center;
 }
 
@@ -55,6 +55,6 @@ h1{
 
 .content{
     border: 2px;
-    color: black;
+    color: white;
     text-align: center;
 }
